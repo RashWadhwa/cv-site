@@ -4,7 +4,7 @@ layout: default
 ---
 
 # RP Wadhwa
-Wolverhampton, UK · wadhwa820@gmail.com · https://www.linkedin.com/in/rash-paul-wadhwa-8ab958287/
+Wolverhampton, UK. wadhwa820@gmail.com   https://www.linkedin.com/in/rash-paul-wadhwa-8ab958287/
 
 ## Profile
 Strengths: Critical thinking, data wrangling, statistical modelling, algorithmic logic, model optimisation, rapid learning.
