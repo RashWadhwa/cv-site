@@ -28,9 +28,8 @@ https://www.linkedin.com/in/rash-paul-wadhwa-8ab958287/
 
 ### Experience
 
-**Data Intern**, Org — 2026  
+**Data Professional**, Org — 2026  
 
-=======
 - Designed interactive dashboards in Tableau/Power BI to visualise, reducing the time stakeholders spent on manual reporting by 10 hours per week.
 
 - Analysed user behaviour data using SQL, uncovering a trend that led to a 5% increase in user retention strategies.
@@ -41,7 +40,7 @@ https://www.linkedin.com/in/rash-paul-wadhwa-8ab958287/
 
 - Built and optimised ETL pipelines using Pandas/SQL, processing over 50GB/100k rows of raw data daily for downstream analysis.
 
-=======
+
 
 
 
