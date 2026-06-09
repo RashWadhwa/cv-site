@@ -4,10 +4,12 @@ layout: default
 ---
 
 # RP Wadhwa
+
 Wolverhampton, UK. 
 
 wadhwa820@gmail.com   
-https://www.linkedin.com/in/rash-paul-wadhwa-8ab958287/
+
+https://www.linkedin.com/in/rpwadhwa/
 
 ## Profile
 
