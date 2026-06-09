@@ -26,11 +26,11 @@ https://www.linkedin.com/in/rpwadhwa/
 
 ### Education
 
-**BSc 'Applied Data Science'**, Harper Adams University — 2025
+**BSc 'Applied Data Science'**, Harper Adams University — 2025-2028
 
 ### Experience
 
-**Data Professional**, Org — 2026  
+**Data Professional**
 
 - Designed interactive dashboards in Tableau/Power BI to visualise, reducing the time stakeholders spent on manual reporting by 10 hours per week.
 
